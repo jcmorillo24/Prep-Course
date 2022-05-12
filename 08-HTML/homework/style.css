@@ -1,0 +1,24 @@
+.divclass h1{
+    color: blue;
+}
+
+.divclass #spanid{
+    font-size: 18px;
+    margin: 50px;
+}
+
+
+#thirddiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 5px;
+    border: 18px ;color: blue;
+
+    
+}
+
+#thirddiv ul li img{
+    width: 400px;
+    
+}
